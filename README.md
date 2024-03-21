@@ -9,11 +9,11 @@ In this ever revolving door of technology, I've embarked on an exhilarating jour
 Crafty Code Wizard | Full-Stack Saiyan | Open Source Champion | Forever Learning 📚 | Problem-Solving Ninja 🥷 | Jesus Lover | Let's Make Software Magic Together!
 
 
-🔥 YouTube -> http://www.youtube.com/@rainernsa
+🔥 YouTube -> [http://www.youtube.com/@rainernsa]
 
-🐝 Linkedln -> https://www.linkedin.com/in/woldreamz/
+🐝 Linkedln -> [https://www.linkedin.com/in/woldreamz/]
 
-🌿 Discord -> https://discord.com/channels/@me
+🌿 Discord -> [https://discord.com/channels/@me]
 
 -- Connect with me on Twitter · LinkedIn
 
@@ -23,3 +23,15 @@ Currently I enjoy working with SvelteKit/Next.js, TailwindCSS, Node.js, PostgreS
 Programming logos
 
 ![logos](https://github.com/Woldreamz/RainerNsa/assets/105242750/f4646ff7-aa22-49cc-8cfd-ca932dbe883a)
+
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+
+
+
+
+
+
+
+<!-- END YOUTUBE-CARDS -->
