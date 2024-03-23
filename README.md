@@ -20,7 +20,7 @@ Crafty Code Wizard | Full-Stack Saiyan | Open Source Champion | Forever Learning
 Favorite tech
 Currently I enjoy working with SvelteKit/Next.js, TailwindCSS, Node.js, PostgreSQL & Firebase
 
-Programming logos
+Programming Stacks I employ
 
 ![logos](https://github.com/Woldreamz/RainerNsa/assets/105242750/f4646ff7-aa22-49cc-8cfd-ca932dbe883a)
 
