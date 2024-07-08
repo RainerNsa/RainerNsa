@@ -4,7 +4,7 @@ I'm Rainer
 
 Software Developer
 
-In this ever revolving door of technology, I've embarked on an exhilarating journey as a wide-eyed rookie to a seasoned software engineer. With each line of code written and every challenge encountered, my passion for crafting innovative solutions has only grown stronger.
+In this ever evolutinary world, called technology, I've embarked on an exhilarating journey as a wide-eyed rookie to a seasoned software engineer. With each line of code written and every challenge encountered, my passion for crafting innovative solutions has only grown stronger.
 
 Crafty Code Wizard | Full-Stack Saiyan | Open Source Champion | Forever Learning 📚 | Problem-Solving Ninja 🥷 | Jesus Lover | Let's Make Software Magic Together!
 
