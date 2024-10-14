@@ -56,7 +56,7 @@ Crafty Code Wizard | Full-Stack Saiyan | Open Source Champion | Forever Learning
 </a>
 <!-- Dark Mode -->
 <a href="https://warpcast.com/woldreamz.eth#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rickstaa-1DA1F2?style=for-the-badge&logo=farcaster&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40woldreamz-1DA1F2?style=for-the-badge&logo=farcaster&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
 <!-- Social button 3 -->
