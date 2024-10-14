@@ -37,6 +37,10 @@ Programming stack
 </div>
 
 
+<div style="display: flex; justify-content: space-around;">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=woldreamz&theme=radical&hide_border=true" alt="woldreamz's Streak" style="width: 30%;">
+</div>
+
 <br />
 <!-- Social button 1 -->
 <!-- Light Mode -->
