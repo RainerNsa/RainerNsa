@@ -21,6 +21,10 @@ Crafty Code Wizard | Full-Stack Saiyan | Open Source Champion | Forever Learning
 
 ![woldreamz's Stats](https://github-readme-stats.vercel.app/api?username=woldreamz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
+![woldreamz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woldreamz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+![woldreamz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woldreamz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 <!-- Social button 1 -->
 <!-- Light Mode -->
 <a href="https://t.me/woldreamz#gh-light-mode-only">
