@@ -27,48 +27,6 @@ Programming stack
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<div align="center" display="flex"> 
-  
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=woldreamz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="woldreamz's Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=woldreamz&theme=tokyonight&hide_border=true" alt="woldreamz's Streak" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woldreamz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="woldreamz's Top Languages" />
-  </div>
-</div>
-</div>
-
-<br />
-<!-- Social button 1 -->
-<!-- Light Mode -->
-<a href="https://t.me/woldreamz#gh-light-mode-only">
-<img src="https://img.shields.io/badge/message-%40woldreamz-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
-</a>
-<!-- Dark Mode -->
-<a href="https://t.me/woldreamz#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/message-%40woldreamz-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
-</a>
-&nbsp;
-<!-- Social button 2 -->
-<!-- Light Mode -->
-<a href="https://warpcast.com/woldreamz.eth#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40woldreamz-1DA1F2?style=for-the-badge&logo=farcaster&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
-</a>
-<!-- Dark Mode -->
-<a href="https://warpcast.com/woldreamz.eth#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40woldreamz-1DA1F2?style=for-the-badge&logo=farcaster&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
-</a>
-&nbsp;
-<!-- Social button 3 -->
-<!-- Light Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=woldreamz#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40woldreamz-1DA1F2?style=for-the-badge&logo=x&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
-</a>
-<div align="center" display="flex"> 
   
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div>
