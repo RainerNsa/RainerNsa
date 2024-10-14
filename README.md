@@ -19,7 +19,7 @@ Crafty Code Wizard | Full-Stack Saiyan | Open Source Champion | Forever Learning
 
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; gap: 20px;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=woldreamz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="woldreamz's Stats" style="width: 300px;" />
   </div>
