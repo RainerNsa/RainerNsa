@@ -19,21 +19,8 @@ Crafty Code Wizard | Full-Stack Saiyan | Open Source Champion | Forever Learning
 
 <br/>
 
-<div display="flex" justify-content= "space-around" align-items= "center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=woldreamz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="woldreamz's Stats" style="width: 300px;" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=woldreamz&theme=tokyonight&hide_border=true" alt="woldreamz's Streak" style="width: 300px;" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woldreamz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="woldreamz's Top Languages" style="width: 300px;" />
-  </div>
-</div>
 
-
-
-<div align="center"> 
+<div align="center" display="flex"> 
   
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div>
