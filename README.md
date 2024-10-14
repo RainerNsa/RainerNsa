@@ -37,20 +37,6 @@ Programming stack
 </div>
 
 
-  
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div>
-    <img src="![woldreamz's Stats](https://github-readme-stats.vercel.app/api?username=woldreamz&theme=radical&show_icons=true&hide_border=true&count_private=true)" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=woldreamz&theme=tokyonight&hide_border=true" alt="woldreamz's Streak" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woldreamz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="woldreamz's Top Languages" />
-  </div>
-</div>
-</div>
-
 <br />
 <!-- Social button 1 -->
 <!-- Light Mode -->
