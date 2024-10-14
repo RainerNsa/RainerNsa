@@ -29,9 +29,9 @@ Programming stack
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=woldreamz&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="woldreamz's Stats" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=woldreamz&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="woldreamz's Stats" style="width: 30%;">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woldreamz&theme=radical&hide_border=true" alt="woldreamz's Streak" style="width: 50%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woldreamz&theme=radical&hide_border=true" alt="woldreamz's Streak" style="width: 30%;">
 </div>
 
 
