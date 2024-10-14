@@ -41,11 +41,11 @@ Crafty Code Wizard | Full-Stack Saiyan | Open Source Champion | Forever Learning
 
 <!-- Social button 1 -->
 <!-- Light Mode -->
-<a href="https://t.me/rickstaa#gh-light-mode-only">
+<a href="https://t.me/woldreamz#gh-light-mode-only">
 <img src="https://img.shields.io/badge/message-%40woldreamz-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
 </a>
 <!-- Dark Mode -->
-<a href="https://t.me/rickstaa#gh-dark-mode-only">
+<a href="https://t.me/woldreamz#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/message-%40woldreamz-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
 </a>
 &nbsp;
