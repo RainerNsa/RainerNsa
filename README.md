@@ -11,7 +11,7 @@ Crafty Code Wizard | Full-Stack Saiyan | Open Source Champion | Forever Learning
 
 🔥 YouTube -> [http://www.youtube.com/@rainernsa]
 
-🐝 Linkedln -> [https://www.linkedin.com/in/woldreamz/]
+🐝 Linkedln -> [https://www.linkedin.com/in/rainernsa/]
 
 🌿 Discord -> [https://discord.com/channels/@me]
 
